@@ -7,8 +7,9 @@
 -->
 - 👋 Hi, I’m @amiteshkr63
 - 👀 I’m interested in Embedded(RTOS, Linux Device Driver) and IOT(Raspberry pi,ESP8266 and ESP32)
-- 🌱 I’m currently  Pursuing my MASTERS in ELECTRONICS SYSTEM DESIGN from NIELIT, AURANGABAD and learning Specialization in IOT from UNIVERSITY OF CALIFORNIA
+- 🌱 I’m currently  Pursuing my MASTERS in ELECTRONICS SYSTEM DESIGN from NIELIT, AURANGABAD and completed Specialization in IOT from UNIVERSITY OF CALIFORNIA
 - 💞️ I’m looking to collaborate on Any Embedded Project and IOT project
+- 👨🏽‍💼 I’m currently research intern at IITMs HTIC, Chennai
 - 📫 How to reach me:
 email-id:amiteshkr63@gmail.com
 
