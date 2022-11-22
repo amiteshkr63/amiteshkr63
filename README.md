@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amitesh Kumar</h1>
-<h3 align="center">A Passionate Embedded System Designer</h3>
+<h3 align="center">A Passionate VLSI Design Enthusiast</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/amiteshkr63](github.com/amiteshkr63)
 
