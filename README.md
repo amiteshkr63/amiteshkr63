@@ -6,9 +6,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-- 👨‍💻 All of my projects are available at [github.com/amiteshkr63](github.com/amiteshkr63)
+
+- 👨‍💻 All of my projects are available at **github.com/amiteshkr63**
 
 - 📫 How to reach me **amiteshkr63@gmail.com**
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amiteshkr63&show_icons=true&locale=en&layout=compact" alt="amiteshkr63" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiteshkr63&show_icons=true&locale=en" alt="amiteshkr63" /></p>
